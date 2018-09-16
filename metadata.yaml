@@ -1,0 +1,27 @@
+_repo: D-99-a-science-fiction-novel_51866
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fyfe, H. B. (Horace Bowne)
+    alias: Fyfe, Horace Bowne
+    birthdate: 1918
+    deathdate: 1997
+    gutenberg_agent_id: '25276'
+    url: http://www.gutenberg.org/2009/agents/25276
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-04-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51866'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Extraterrestrial beings -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'D-99: a science-fiction novel'
+url: http://www.gutenberg.org/ebooks/51866
